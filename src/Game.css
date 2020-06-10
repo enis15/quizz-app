@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+  background-color: #3498db;
+}
+
+h2 {
+  margin-top: 3%;
+}
+.Game {
+  margin-top: 5%;
+}
+
+.button1 {
+  width: 150px !important;
+  font-size: 26px;
+  margin-top: 2%;
+  margin-right: 3%;
+}
+
+.button2 {
+  width: 150px !important;
+  font-size: 26px;
+  margin-top: 2%;
+  margin-left: 3%;
+}
+
+.total-div {
+  margin-top: 7%;
+}
+
+.total {
+  margin-top: 3%;
+}
+
+.restart {
+  margin-top: 1%;
+  width: 150px !important;
+  font-size: 22px;
+}
